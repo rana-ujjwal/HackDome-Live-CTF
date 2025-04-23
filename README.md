@@ -88,8 +88,8 @@ To get full functionality, install the following **free plugins**:
 ---
 
 ## 📌 Support  
-👨‍💻 Developed by **Bishesh Dulal**  
-🔗 **GitHub:** [github.com/bisheshd](https://github.com/bisesdulal16)  
-📧 **Email:** [bisesdulal16@gmail.com](mailto:bisesdulal16@gmail.com)  
+👨‍💻 Developed by **Ujjwal Rana Magar**  
+🔗 **GitHub:** [github.com/rana-ujjwal](https://github.com/rana-ujjwal)  
+📧 **Email:** [ujjwalranamagar54@gmail.com](mailto:ujjwalranamagar546@gmail.com)  
 
 📜 **License:** MIT License – Free to modify and distribute.  
