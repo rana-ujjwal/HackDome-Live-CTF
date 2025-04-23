@@ -34,6 +34,18 @@ HackDome-Theme/
 
 ---
 
+## System Architecture
+
+![Diagram](diagram/system_architecture.jpeg)
+
+---
+
+## Data Flow Diagram
+
+![Diagram](diagram/secom_dataflow.png)
+
+---
+
 ## 📥 Installation  
 
 ### **1️⃣ Prerequisites**  
